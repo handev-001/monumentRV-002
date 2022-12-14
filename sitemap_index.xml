@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://monumentrvresort.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://handev-001.github.io/monumentRV-002//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://monumentrvresort.com/post-sitemap.xml</loc>
+		<loc>https://handev-001.github.io/monumentRV-002//post-sitemap.xml</loc>
 		<lastmod>2022-12-13T18:02:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://monumentrvresort.com/page-sitemap.xml</loc>
+		<loc>https://handev-001.github.io/monumentRV-002//page-sitemap.xml</loc>
 		<lastmod>2022-12-13T21:24:49+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://monumentrvresort.com/category-sitemap.xml</loc>
+		<loc>https://handev-001.github.io/monumentRV-002//category-sitemap.xml</loc>
 		<lastmod>2022-12-13T18:02:11+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://monumentrvresort.com/author-sitemap.xml</loc>
+		<loc>https://handev-001.github.io/monumentRV-002//author-sitemap.xml</loc>
 		<lastmod>2022-12-13T19:11:44+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
