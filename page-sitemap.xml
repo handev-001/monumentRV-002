@@ -2,17 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://monumentrvresort.com/</loc>
-		<lastmod>2022-12-15T19:58:11+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://monumentrvresort.com/info-directions/</loc>
-		<lastmod>2022-12-15T15:20:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
-		</image:image>
+		<lastmod>2022-12-15T20:29:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
 		</image:image>
@@ -83,10 +73,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://monumentrvresort.com/reserve/</loc>
-		<lastmod>2022-12-15T19:56:41+00:00</lastmod>
+		<loc>https://monumentrvresort.com/info-directions/</loc>
+		<lastmod>2022-12-15T20:30:10+00:00</lastmod>
 		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/BookEarly.png</image:loc>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
