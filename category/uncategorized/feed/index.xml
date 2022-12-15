@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Uncategorized Archives - Monument RV Resort</title>
-	<atom:link href="https://handev-001.github.io/monumentRV-002/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://handev-001.github.io/monumentRV-002/category/uncategorized/</link>
+	<title>Uncategorized Archives - RV Park - Monument RV Resort in Fruita, CO</title>
+	<atom:link href="https://monumentrvresort.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://monumentrvresort.com/category/uncategorized/</link>
 	<description>Fruita, Colorado</description>
 	<lastBuildDate>Tue, 13 Dec 2022 18:02:11 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,23 +21,23 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://handev-001.github.io/monumentRV-002/hello-world/</link>
-					<comments>https://handev-001.github.io/monumentRV-002/hello-world/#comments</comments>
+		<link>https://monumentrvresort.com/hello-world/</link>
+					<comments>https://monumentrvresort.com/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Dec 2022 18:02:11 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://handev-001.github.io/monumentRV-002/?p=1</guid>
+		<guid isPermaLink="false">https://monumentrvresort.com/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="https://handev-001.github.io/monumentRV-002/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://handev-001.github.io/monumentRV-002/">Monument RV Resort</a>.</p>
+<p>The post <a rel="nofollow" href="https://monumentrvresort.com/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://monumentrvresort.com/">RV Park - Monument RV Resort in Fruita, CO</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a rel="nofollow" href="https://handev-001.github.io/monumentRV-002/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://handev-001.github.io/monumentRV-002/">Monument RV Resort</a>.</p>
+<p>The post <a rel="nofollow" href="https://monumentrvresort.com/hello-world/">Hello world!</a> appeared first on <a rel="nofollow" href="https://monumentrvresort.com/">RV Park - Monument RV Resort in Fruita, CO</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://handev-001.github.io/monumentRV-002/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://monumentrvresort.com/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
