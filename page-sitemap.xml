@@ -73,8 +73,28 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://monumentrvresort.com/rv-park/</loc>
+		<lastmod>2022-12-16T16:30:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/morerv.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkedrv.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://monumentrvresort.com/cabins/</loc>
+		<lastmod>2022-12-16T16:30:38+00:00</lastmod>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabin1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabins2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://monumentrvresort.com/info-directions/</loc>
-		<lastmod>2022-12-15T20:30:10+00:00</lastmod>
+		<lastmod>2022-12-16T16:32:51+00:00</lastmod>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
 		</image:image>
