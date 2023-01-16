@@ -9,10 +9,10 @@
 
 <channel>
 	<title>RV Park &#8211; Monument RV Resort in Fruita, CO</title>
-	<atom:link href="https://monumentrvresort.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://monumentrvresort.com/feed/?simply_static_page=2389" rel="self" type="application/rss+xml" />
 	<link>https://monumentrvresort.com/</link>
 	<description>Fruita, Colorado</description>
-	<lastBuildDate>Fri, 16 Dec 2022 16:32:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Jan 2023 20:08:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
