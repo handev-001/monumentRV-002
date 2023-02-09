@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://monumentrvresort.com/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf">
+		<meta http-equiv="refresh" content="0;url=http://monumentrvresort.test/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "https://monumentrvresort.com/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf";
+			window.location = "http://monumentrvresort.test/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf";
 		</script>
 
-		<p>You are being redirected to <a href="https://monumentrvresort.com/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf">https://monumentrvresort.com/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf</a></p>
+		<p>You are being redirected to <a href="http://monumentrvresort.test/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf">http://monumentrvresort.test/wp-content/uploads/2022/12/Monument-RV-Resort-Brochure-1.pdf</a></p>
 	</body>
 </html>
