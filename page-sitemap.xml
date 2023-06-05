@@ -2,10 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://monumentrvresort.com/</loc>
-		<lastmod>2023-05-25T17:43:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-06-05T18:37:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://monumentrvresort.com/activities-attractions/</loc>
@@ -86,16 +83,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://monumentrvresort.com/info-directions/</loc>
-		<lastmod>2023-05-05T21:48:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://monumentrvresort.com/cabins/</loc>
 		<lastmod>2023-05-12T18:10:02+00:00</lastmod>
 		<image:image>
@@ -111,12 +98,16 @@
 	</url>
 	<url>
 		<loc>https://monumentrvresort.com/reserve/</loc>
-		<lastmod>2023-05-25T17:45:56+00:00</lastmod>
+		<lastmod>2023-06-05T18:37:47+00:00</lastmod>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/BookEarly.png</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>https://monumentrvresort.com/info-directions/</loc>
+		<lastmod>2023-06-05T18:38:18+00:00</lastmod>
 		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/goodsam.jpg</image:loc>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
