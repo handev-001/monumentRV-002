@@ -87,13 +87,6 @@
 		<lastmod>2023-05-12T18:15:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://monumentrvresort.com/reserve/</loc>
-		<lastmod>2023-06-05T18:37:47+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/BookEarly.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://monumentrvresort.com/info-directions/</loc>
 		<lastmod>2023-06-05T18:38:18+00:00</lastmod>
 		<image:image>
@@ -108,6 +101,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabins2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://monumentrvresort.com/reserve/</loc>
+		<lastmod>2023-06-15T20:14:55+00:00</lastmod>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/BookEarly.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
