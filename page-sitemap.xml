@@ -83,16 +83,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://monumentrvresort.com/cabins/</loc>
-		<lastmod>2023-05-12T18:10:02+00:00</lastmod>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabin1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabins2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://monumentrvresort.com/amenities/</loc>
 		<lastmod>2023-05-12T18:15:50+00:00</lastmod>
 	</url>
@@ -108,6 +98,16 @@
 		<lastmod>2023-06-05T18:38:18+00:00</lastmod>
 		<image:image>
 			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/parkview1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://monumentrvresort.com/cabins/</loc>
+		<lastmod>2023-06-15T13:47:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabin1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://monumentrvresort.com/wp-content/uploads/2022/12/cabins2.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
