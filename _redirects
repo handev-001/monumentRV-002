@@ -1,0 +1,18 @@
+# redirects
+# source                                        target
+# old                                           new
+/info-directions/                        /info/
+/about/                                  /info/
+/activities/                            /activities-attractions/
+/contact-2.html                         /info/
+/contact.html                           /info/
+/daytrips.html                          /activities-actractions/
+/directions.html                        /info/
+/events.html                            /activities-attractions/
+/index-2.html                           /
+/index-3.html                           /
+/index.html                             /
+/photo-gallery.html                     /amenities/
+/reservation.html                       /reserve/
+/services.html                          /reserve/
+/sitemap.html                           /info/
