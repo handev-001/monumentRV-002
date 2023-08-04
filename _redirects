@@ -17,6 +17,6 @@
 /services.html                          /reserve/
 /sitemap.html                           /info/
 
-https://monumentrvresort.com/reserve/                               https://resnexus.com/resnexus/reservations/book/09F2EC90-41B6-4DEA-A7FC-289A0F040113/
+/reserve*                             https://resnexus.com/resnexus/reservations/book/09F2EC90-41B6-4DEA-A7FC-289A0F040113/ 200!
 /cabins/                                /accommodations/cabins/
 /rv-park/                               /accommodations/rv-park/
